@@ -1,0 +1,26 @@
+html {
+    box-sizing: border-box;
+}
+
+*, ::after, ::before {
+    box-sizing: inherit;
+}
+
+.body {
+    color: #2b2a2a;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 15px;
+    line-height: 1.5;
+    max-width: 1000px;
+    padding: 10 40px;
+    margin: 20px auto;
+}
+
+.body--dark {
+    color: #d7d3f3;
+    background-color: #494a4a;
+}
+
+.bookTitle {
+    font-style: italic;
+}

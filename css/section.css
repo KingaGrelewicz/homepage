@@ -1,0 +1,30 @@
+.section {
+    padding: 0 40px;
+    margin: 10px auto;
+}
+
+.section__header {
+    color: #6caaf6;
+    padding: 5px;
+}
+
+.section__subheader {
+    color: #6caaf6;
+    padding: 5px;
+}
+
+.section__bold {
+    font-weight: bold;
+    margin: 10px;
+    display: block;
+}
+
+.section__unorderList {
+    line-height: 1.5;
+    padding-left: 0px;
+}
+
+.section__listItem {
+    padding-left: 0px;
+    line-height: 1.5;
+}

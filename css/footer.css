@@ -1,0 +1,37 @@
+.footer {
+    max-width: 100%;
+    margin: 50px;
+    text-decoration: none;
+}
+
+.footer__goToUpButton {
+    margin: 20px 5px;
+    color: #bad7fa;
+    padding: 15px;
+    border: none;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 15px;
+    background-color: #29627e;
+    border-radius: 20px;
+    box-shadow: 7px 7px 11px 0px #48597F;
+    text-decoration: none;
+    display: block;
+}
+
+.footer__goToUpButton:focus {
+    outline: 1px solid #252424;
+}
+
+.footer__goToUpButton:hover {
+    color: #749aad;
+}
+
+.footer__goToUpButton:active {
+    color: #29627e;
+}
+
+
+.footer__email {
+    display: block;
+    text-decoration: none;
+}
