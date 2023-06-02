@@ -9,7 +9,7 @@ Visitors can browse my portfolio to see examples of my work and learn more about
 My homepage is now live on GitHub Pages. Check it out here:
 https://kingagrelewicz.github.io/homepage/
  
-![Homepage screenshot](images/homepagescreenchot.png)
+![Homepage screenshot](images/homepagescreenshot.png)
 
 ## Technology
 During creating the website I was using Visual Studio Code and I used a BEM convention.
