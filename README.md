@@ -12,6 +12,6 @@ https://kingagrelewicz.github.io/homepage/
 ![Homepage screenshot](images/homepagescreenshot.png)
 
 ## Technology
-During creating the website I was using Visual Studio Code and I used a BEM convention.
+During creating the website I was using Visual Studio Code and I used a BEM convention, ES6+ Features.
 The website is built using HTML, CSS, and JavaScript. The website was created to response correctly on desktop, tablets, and mobile devices. 
 I used fonts available on Google Fonts, Sharing debugger
