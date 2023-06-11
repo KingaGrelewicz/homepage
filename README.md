@@ -2,7 +2,7 @@
 
 ## Description
 Hi, my name is Kinga, take a look at my first website.
-This is my personal website contains information about my work experience, my hobby and schools what I'm graduated. I will share my my projects here.
+This is my personal website contains information about my work experience, my hobby and schools. I will share my my projects here.
 Visitors can browse my portfolio to see examples of my work and learn more about me and my background. The website also includes a contact channels where visitors can reach out to me directly.
 
 ## Demo
