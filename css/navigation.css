@@ -8,13 +8,14 @@
 .navigation__item {
     list-style-type: none;
     margin: 10px;
-    text-decoration: none;
     color: #6caaf6;
-    text-decoration: none;
+    text-decoration: underline;
     list-style-type: none;
     padding: 5px;
-    text-align: center;
     font-size: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    
 }
 
 .navigation__item:hover {
